@@ -1,0 +1,55 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio cache/options files
+.vs/
+*.user
+*.suo
+*.userprefs
+*.pidb
+*.svclog
+*.pdb
+*.cache
+*.ilk
+*.log
+*.vspscc
+*.vssscc
+
+# Rider files
+.idea/
+*.sln.iml
+
+# MonoDevelop
+*.pidb
+*.userprefs
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+# The packages folder can be ignored because of NuGet restore
+packages/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# DotCover
+*.dotCover
+
+# Coverage results
+*.coverage
+*.coveragexml
+
+# Others
+*.resharper
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
